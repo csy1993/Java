@@ -2,9 +2,9 @@
  * @Author: CSY
  * @Date: 2020-03-23 20:41:55
  * @LastEditors: CSY
- * @LastEditTime: 2020-03-25 22:00:43
+ * @LastEditTime: 2020-03-25 22:08:47
  */
-public class Operator{
+public class a_Operator{
     public static void main(String[] args) {
         System.out.println("算数运算符------");
         int a=1;
